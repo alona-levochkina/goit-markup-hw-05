@@ -828,7 +828,6 @@ img {
 }
 
 .checkbox-icon {
-  fill: transparent;
 }
 
 .modal-checkbox:checked + .label-checkbox .custom-checkbox {
